@@ -1,1 +1,1 @@
-web: gunicorn sdg_008_backend.wsgi
+web: gunicorn backend_sdg_008.wsgi
